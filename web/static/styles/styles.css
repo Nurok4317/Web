@@ -1,0 +1,33 @@
+body{
+    
+    padding: auto;
+    margin-bottom: 20%;
+    margin-left: 37%;
+    margin-right: 37%;
+    letter-spacing: 2px;
+    word-spacing: 3px;
+    
+}
+h1 {
+    font-style:italic;
+    background-color: aquamarine;
+    color: blue;
+    text-align: center;
+}
+p {
+    font-family: sans-serif;
+    text-wrap:balance;
+}
+.cms1 {
+    color: red;
+}
+.title1 {
+    text-align: center;
+    margin: 20px;
+    color: blue;
+    
+}
+.blueones {
+    color: blue;
+    font-style: italic;
+}
